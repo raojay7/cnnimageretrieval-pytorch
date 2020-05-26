@@ -1,0 +1,5 @@
+# Project exclude paths
+/data/
+/cirtorch/不扩展
+/cirtorch/扩展query框
+/cirtorch/examples/test/
